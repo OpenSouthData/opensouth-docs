@@ -1,47 +1,43 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Open South is a premier open data platform designed to empower researchers, scholars, practitioners, policymakers, and communities within the Global South. The platform's mission is to facilitate access to valuable data, foster collaboration, and promote sustainable development across diverse domains. Open South believes that access to data is a fundamental driver of progress and aims to unlock the rich landscape of information and knowledge in the Global South.
 
-## Getting Started
+### Key Features
 
-Get started by **creating a new site**.
+- Comprehensive repository of freely downloadable open data
+- Encouragement of data sharing and interdisciplinary research
+- Emphasis on accessibility and localization to address language barriers and diverse technological infrastructures
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Empowering the Global South
 
-### What you'll need
+Open South caters to a wide range of users, including:
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- Researchers seeking valuable insights
+- Policymakers in pursuit of evidence-based solutions
+- Community members passionate about driving positive change
 
-## Generate a new site
+## Privacy Policy
 
-Generate a new Docusaurus site using the **classic template**.
+### Information Collection
 
-The classic template will automatically be added to your project after you run the command:
+- Personal Data: When you create an account or interact with the platform, we may collect personal information such as your name, email address, username, and any other information you voluntarily provide.
+- Usage Data: We collect information about your interactions with the platform, including your IP address, browser type, device information, pages visited, and actions taken. This data helps us analyze usage patterns and improve the platform.
+- Cookies and Similar Technologies: We may use cookies, beacons, and other tracking technologies to gather information about your usage of the platform. You can control the use of cookies through your browser settings.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### Use of Information
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- Provide and Improve the Platform: We use the collected information to provide, maintain, and improve the platform's functionality and performance, personalize your experience, and develop new features and services.
+- Communication: We may use your contact information to communicate with you, respond to inquiries, provide support, and send important updates or notifications related to the platform.
+- Research and Analytics: We may aggregate and anonymize user data for research and analytical purposes, including statistical analysis, market research, and trend monitoring, to enhance the platform and better understand user needs.
+- Legal Compliance: We may process your personal information to comply with applicable laws, regulations, or legal obligations, and to enforce our rights, protect our property, or ensure the safety and security of the platform and its users.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### Data Sharing
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Service Providers: We may engage trusted third-party service providers to perform certain functions on our behalf, such as hosting, data analysis, customer support, and marketing. These providers will have access to your personal information only to the extent necessary to perform their respective tasks and are obligated to maintain its confidentiality.
+- Legal Requirements: We may disclose your personal information if required to do so by law, or if we believe in good faith that such disclosure is necessary to comply with legal obligations, protect our rights or safety, investigate fraud, or respond to a government request.
+- Consent: We may share your personal information with your consent or at your direction.
