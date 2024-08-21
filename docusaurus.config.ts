@@ -8,15 +8,15 @@ const config: Config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://henzyd.github.io",
+  url: "https://OpenSouthData.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/open-south-docs/",
+  baseUrl: "/opensouth-docs/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "henzyd", // Usually your GitHub org/user name.
-  projectName: "open-south-docs", // Usually your repo name.
+  organizationName: "OpenSouthData", // Usually your GitHub org/user name.
+  projectName: "opensouth-docs", // Usually your repo name.
 
   // // Set the production url of your site here
   // url: "https://OpenSouthData.github.io",
@@ -47,7 +47,7 @@ const config: Config = {
         docs: {
           sidebarPath: "./sidebars.ts",
           routeBasePath: "/",
-          editUrl: "https://github.com/henzyd/open-south-docs/tree/main/",
+          editUrl: "https://github.com/OpenSouthData/opensouth-docs/tree/main/",
           // editUrl: "https://github.com/OpenSouthData/opensouth-docs/tree/main/",
         },
         blog: false,
@@ -67,7 +67,7 @@ const config: Config = {
       items: [
         {
           // href: "https://github.com/OpenSouthData/opensouth-docs",
-          href: "https://github.com/henzyd/open-south-docs",
+          href: "https://github.com/OpenSouthData/opensouth-docs",
           label: "GitHub",
           position: "right",
         },
