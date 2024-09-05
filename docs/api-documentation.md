@@ -102,4 +102,4 @@ The API uses standard HTTP status codes to indicate the success or failure of an
 
 ## Support and Feedback
 
-For any issues, questions, or feedback regarding the Open South API, please contact our support team at [support@opensouth.io](mailto:support@opensouth.io) or visit our Help Center.
+For any issues, questions, or feedback regarding the Open South API, please contact our support team at [support@opensouth.io](mailto:support@opensouth.io) or visit our [Help Center](https://data.opensouth.io/contact).
