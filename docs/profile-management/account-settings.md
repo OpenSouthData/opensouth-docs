@@ -5,6 +5,8 @@ title: Account Settings
 
 ### Profile Customization
 
+![Profile Page](./images/profile-page.png)
+
 1. **Open Profile Settings:** Click on your profile icon and select 'Settings' or 'Profile.'
 2. **Edit Profile:** Update your profile details such as profile picture, bio, and contact information.
 3. **Save Changes:** Click 'Save' or 'Update Profile' to apply changes.
