@@ -3,6 +3,8 @@ sidebar_position: 1
 title: Uploading Data
 ---
 
+![Create dataset page](./images/create-dataset-page.png)
+
 1. **Navigate to the Data Upload Page:**
 
    - Log in to your account.
