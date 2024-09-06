@@ -10,8 +10,13 @@ To create an organization on the Open South platform, you must have an active ac
 1.  **Log In to Your Account:**
     - Ensure you are logged into your Open South account.
 2.  **Navigate to 'Create Organization':**
-    - From your dashboard, click on the + icon at the top corner and select the 'Add an organization' option.
+    ![Added Organization/Dataset icon](./images/add-icon.png)
+
+        - From your dashboard, click on the + icon at the top corner and select the 'Add an organization' option.
+
 3.  **Fill in the Organization Details:**
+
+![Create Orgnaization](./images/create-organization-page.png)
 
     **Logo:**
 
