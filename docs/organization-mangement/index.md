@@ -13,6 +13,8 @@ To create an organization on the Open South platform, you must have an active ac
     - From your dashboard, click on the + icon at the top corner and select the 'Add an organization' option.
 3.  **Fill in the Organization Details:**
 
+![Create Orgnaization](./images/create-organization-page.png)
+
     **Logo:**
 
     - Upload a logo for your organization. The logo should be in PNG, JPG, or JPEG format. - Click 'Choose image' to upload the logo.
