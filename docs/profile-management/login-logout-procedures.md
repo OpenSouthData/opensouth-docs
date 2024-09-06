@@ -7,6 +7,8 @@ title: Login/Logout Procedures
 
 ### Manual Login
 
+![Login Page](./images/login-page.png)
+
 1. **Go to the Login Page:** Click the 'Login' button on the homepage.
 2. **Enter Credentials:** Enter your username and password.
 3. **Access the Account:** Click the 'Log In' button to access your dashboard.
@@ -14,6 +16,8 @@ title: Login/Logout Procedures
 #### OR
 
 ### Sign in with Google
+
+![Sign in with Google](./images/signin-with-google.png)
 
 1. **Select Google Login:** Choose the 'Sign in with Google' option located below the 'Log In' button.
 2. **Google Account Selection:**
@@ -30,6 +34,8 @@ title: Login/Logout Procedures
 5. **Access the Account:** You will be automatically logged into your account and redirected to your dashboard.
 
 # Logging Out
+
+![Logout](./images/logout.png)
 
 1. **Navigate to Account Settings:** Click on your profile picture or name in the top corner.
 2. **Logout:** Select the 'Logout' option from the dropdown menu to safely log out of your account.
