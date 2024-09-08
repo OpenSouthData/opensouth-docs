@@ -3,6 +3,8 @@ sidebar_position: 5
 title: Map Visualization
 ---
 
+![Map Image](./images/map.png)
+
 - **Visualizing dataset on Maps:** Instructions for visualizing data on maps.
 
   - To visualize the map, navigate to the homepage and click on any pointer to zoom in. Pointers on the map are country-specific, allowing you to focus on data points within specific countries or regions.

@@ -8,6 +8,7 @@ title: Uploading Data
 1. **Navigate to the Data Upload Page:**
 
    - Log in to your account.
+   - At the top-right hand corner, click on the ![add icon](./images/add-icon.png) icon.
    - Click on the 'Add a dataset' option from the main menu.
 
 2. **Publish as:**
