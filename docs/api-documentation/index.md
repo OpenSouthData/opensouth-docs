@@ -11,6 +11,8 @@ The Open South API provides developers with programmatic access to datasets avai
 
 The Open South API is available at the following endpoint: [Open South API Documentation](https://documenter.getpostman.com/view/23812062/2sA3dyjBdN)
 
+![API Docs](./images/api-docs.png)
+
 ## Key Features
 
 1. **Data Retrieval:** Access detailed datasets across various categories.
