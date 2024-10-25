@@ -20,3 +20,19 @@
   --ifm-color-primary-lightest: #f1f9fe;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.markdown p {
+  text-align: justify;
+}
+
+.markdown li {
+  text-align: justify;
+}
+
+.markdown td {
+  text-align: justify;
+}
+
+.markdown blockquote p {
+  text-align: justify;
+}
